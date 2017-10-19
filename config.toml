@@ -1,5 +1,5 @@
-# baseurl = "https://luciorq.rbind.io/"
-baseurl = "http://150.164.24.106:8788/p/4321/"
+baseurl = "https://luciorq.rbind.io/"
+# baseurl = "http://150.164.24.106:8788/p/4321/"
 title = "Lucio Rezende Queiroz"
 copyright = "&copy; 2017 Lucio Rezende Queiroz"
 theme = "hugo-academic"
