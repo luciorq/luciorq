@@ -12,35 +12,38 @@ weight = 1
 # List your academic interests.
 [interests]
   interests = [
-    "Autism Spectrum Disorders",
-    "Natural Language Processing",
-    "Computational Behavioral Science",
-    "Eye Tracking",
-    "Outcomes",
+    "Biotechnology",
+    "Molecular Genetics",
+    "Bioinformatics",
+    "Reproducible Research"
+    "Data Science",
+    "Docker",
+    "Shiny",
     "R"
   ]
 
 # List your qualifications (such as academic degrees).
-[[education.courses]]
-  course = "PhD in Developmental Psychology & Quantitative Methods"
-  institution = "Vanderbilt University"
-  year = 2008
 
 [[education.courses]]
-  course = "MSc in Developmental Psychology"
-  institution = "Vanderbilt University"
-  year = 2005
+  course = "MSc in Bioinformatics"
+  institution = "Federal University of Minas Gerais"
+  year = In progress
 
 [[education.courses]]
-  course = "BSc in Applied Psychology"
-  institution = "Georgia Institute of Technology"
-  year = 2002
+  course = "Exchange student at Bergen High Technology Centre"
+  institution = "University of Bergen"
+  year = 2014
+
+[[education.courses]]
+  course = "BSc in Biotechnology"
+  institution = "University of Brasilia"
+  year = 2016
  
 +++
 
 # About me
 
-I am an associate professor of pediatrics in OHSU's <a href = "https://www.ohsu.edu/xd/research/centers-institutes/center-for-spoken-language-understanding/" target = "_blank">Center for Spoken Language Understanding</a> in Portland, Oregon. I earned my doctorate in developmental psychology, with a concentration in quantitative methods. I focus on developing more sensitive tools to capture subtle yet meaningful clinical changes in children's language and social functioning. Currently, my research is driven by the need for good outcome measures to evaluate the impact of new treatments and interventions for children with autism and other neurodevelopmental disorders such as Fragile X Syndrome. I am passionate about using technology to improve how we measure children's behavior in a way that is both objective and quantitative. I believe using technology like eye-tracking makes participating in research studies more fun, and reduces the burdens placed on participating families. 
+I am a Biotechnologist, experienced in Molecular Biology, Metabolic Engineering and Computational Biology. Currently a Bioinformatics Master’s student at Federal University of Minas Gerais - Brazil. 
+I am interested in every possible biological data.
 
-In addition to research, I teach graduate-level courses at OHSU on statistics, data science, and data visualization using R. I also have developed and led several R workshops and smaller team-based training sessions, and love to train new "useRs".
 
