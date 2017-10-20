@@ -15,11 +15,7 @@ weight = 1
     "Biotechnology",
     "Molecular Genetics",
     "Bioinformatics",
-<<<<<<< HEAD
     "Reproducible Research",
-=======
-    "Reproducible Research"
->>>>>>> 66ce99d4e77f76a4d3476affb93e509fe0aaae8e
     "Data Science",
     "Docker",
     "Shiny",
@@ -31,11 +27,7 @@ weight = 1
 [[education.courses]]
   course = "MSc in Bioinformatics"
   institution = "Federal University of Minas Gerais"
-<<<<<<< HEAD
   year = "Current position"
-=======
-  year = In progress
->>>>>>> 66ce99d4e77f76a4d3476affb93e509fe0aaae8e
 
 [[education.courses]]
   course = "Exchange student at Bergen High Technology Centre"
