@@ -156,9 +156,9 @@ defaultContentLanguageInSubdir = false
     link = "http://orcid.org/0000-0002-6090-1834"
     
   [[params.social]]
-    icon = "researchgate"
+    icon = "university"
     icon_pack = "ai"
-    link = ""
+    link = "http://lattes.cnpq.br/"
     
   [[params.social]]
     icon = "linkedin"

@@ -26,20 +26,16 @@ view = 1
   tag = "*"
   
 [[filter]]
-  name = "Natural Language Processing"
-  tag = ".natural-language-processing"
+  name = "Biotechnology"
+  tag = ".biotechnology"
 
 [[filter]]
-  name = "Autism"
-  tag = ".autism"
+  name = "Bioinformatics"
+  tag = ".bioinformatics"
   
 [[filter]]
-  name = "Eye-tracking"
-  tag = ".eye-tracking"
-  
-[[filter]]
-  name = "Outcomes"
-  tag = ".outcomes"
+  name = "Data Science"
+  tag = ".data_science"
 
 +++
 
