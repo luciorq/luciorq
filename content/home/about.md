@@ -30,15 +30,15 @@ weight = 1
   year = "Current position"
 
 [[education.courses]]
+  course = "BSc in Biotechnology"
+  institution = "University of Brasilia"
+  year = 2016
+
+[[education.courses]]
   course = "Exchange student at Bergen High Technology Centre"
   institution = "University of Bergen"
   year = 2014
 
-[[education.courses]]
-  course = "BSc in Biotechnology"
-  institution = "University of Brasilia"
-  year = 2016
- 
 +++
 
 # About me
